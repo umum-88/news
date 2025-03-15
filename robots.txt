@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /index.html
+
+Sitemap: https://umum-88.github.io/news/sitemaps.xml
